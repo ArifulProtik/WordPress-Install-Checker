@@ -14,3 +14,5 @@ pip3 install bs4
 Put Your Wordpress Site List in ```list.txt```
 then run the tool. 
 ```python3 find.py```
+
+It Will Check The Vulnerbilty Of Your Collected Site List
